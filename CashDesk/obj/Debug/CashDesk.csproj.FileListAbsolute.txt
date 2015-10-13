@@ -1,0 +1,4 @@
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\CashDesk\bin\Debug\CashDesk.exe.config
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\CashDesk\obj\Debug\CashDesk.csprojResolveAssemblyReference.cache
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\CashDesk\obj\Debug\CashDesk.Properties.Resources.resources
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\CashDesk\obj\Debug\CashDesk.csproj.GenerateResource.Cache

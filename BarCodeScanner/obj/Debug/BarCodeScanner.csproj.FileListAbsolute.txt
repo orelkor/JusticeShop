@@ -1,0 +1,5 @@
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\BarCodeScanner\bin\Debug\BarCodeScanner.dll
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\BarCodeScanner\bin\Debug\BarCodeScanner.pdb
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\BarCodeScanner\obj\Debug\BarCodeScanner.csprojResolveAssemblyReference.cache
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\BarCodeScanner\obj\Debug\BarCodeScanner.dll
+C:\Users\Korolev Serey\Documents\Visual Studio 2015\Projects\IS-14-1\JusticeShop\BarCodeScanner\obj\Debug\BarCodeScanner.pdb
